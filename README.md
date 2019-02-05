@@ -6,6 +6,8 @@ It's all in `index.html` (plus the images), <100 lines altogether, unminified.
 
 The experiment uses CSS 3D transforms and animations, no JavaScript is involved.
 
+It was tested in Chrome on Full HD resolution.
+
 ## Usage
 
 Open `index.html` in your browser.
